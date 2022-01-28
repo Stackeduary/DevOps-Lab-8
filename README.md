@@ -1,4 +1,4 @@
-# Iot Usecase
+# CI/CD with GitLab
 
 This the project for [**Lab 08: CI/CD with GitLab**](https://courses.cs.ut.ee/2021/DevOps/fall/Main/Lab08) in DevOps course.
 Please visit [here](https://courses.cs.ut.ee/2021/DevOps/fall/Main/Practicals) for more information.
